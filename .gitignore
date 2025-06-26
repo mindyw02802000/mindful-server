@@ -1,0 +1,16 @@
+# קבצים שנוצרו על ידי Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.sln.ide
+
+# קבצים שנוצרו על ידי .NET
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# קבצים של מסדי נתונים
+*.sql
+database/

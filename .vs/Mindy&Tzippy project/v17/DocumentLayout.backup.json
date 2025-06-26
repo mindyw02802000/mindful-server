@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F5372-7541-4B60-93A1-C16394688D68}|Server\\Server.csproj|c:\\users\\imoe001\\desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\server\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C91F5372-7541-4B60-93A1-C16394688D68}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F5372-7541-4B60-93A1-C16394688D68}|Server\\Server.csproj|c:\\users\\imoe001\\desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\server\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C91F5372-7541-4B60-93A1-C16394688D68}|Server\\Server.csproj|solutionrelative:server\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563168EB-8F39-4576-8562-41BFC40458B7}|Dal\\Dal.csproj|c:\\users\\imoe001\\desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\dal\\migrations\\20250623143132_initialcreatesqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563168EB-8F39-4576-8562-41BFC40458B7}|Dal\\Dal.csproj|solutionrelative:dal\\migrations\\20250623143132_initialcreatesqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F5372-7541-4B60-93A1-C16394688D68}|Server\\Server.csproj|c:\\users\\imoe001\\desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\server\\properties\\controllers\\modellscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91F5372-7541-4B60-93A1-C16394688D68}|Server\\Server.csproj|solutionrelative:server\\properties\\controllers\\modellscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563168EB-8F39-4576-8562-41BFC40458B7}|Dal\\Dal.csproj|c:\\users\\imoe001\\desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\dal\\do\\modell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563168EB-8F39-4576-8562-41BFC40458B7}|Dal\\Dal.csproj|solutionrelative:dal\\do\\modell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F5372-7541-4B60-93A1-C16394688D68}|Server\\Server.csproj|c:\\users\\imoe001\\desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\server\\migrations\\20250622173957_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91F5372-7541-4B60-93A1-C16394688D68}|Server\\Server.csproj|solutionrelative:server\\migrations\\20250622173957_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T09:14:57.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANsTAAAAAAAAAAAqwOUTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-23T14:34:27.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250623143132_InitialCreateSQLite.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Dal\\Migrations\\20250623143132_InitialCreateSQLite.cs",
+              "RelativeDocumentMoniker": "Dal\\Migrations\\20250623143132_InitialCreateSQLite.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Dal\\Migrations\\20250623143132_InitialCreateSQLite.cs",
+              "RelativeToolTip": "Dal\\Migrations\\20250623143132_InitialCreateSQLite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:31:32.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T14:03:51.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModellsControllers.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Server\\Properties\\Controllers\\ModellsControllers.cs",
+              "RelativeDocumentMoniker": "Server\\Properties\\Controllers\\ModellsControllers.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Server\\Properties\\Controllers\\ModellsControllers.cs",
+              "RelativeToolTip": "Server\\Properties\\Controllers\\ModellsControllers.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:43:00.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Modell.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Dal\\Do\\Modell.cs",
+              "RelativeDocumentMoniker": "Dal\\Do\\Modell.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Dal\\Do\\Modell.cs",
+              "RelativeToolTip": "Dal\\Do\\Modell.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:42:42.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250622173957_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Server\\Migrations\\20250622173957_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Server\\Migrations\\20250622173957_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Desktop\\\u05DE\u05D9\u05E0\u05D3\u05D9\\c#\\server2\\Server\\Migrations\\20250622173957_InitialCreate.cs",
+              "RelativeToolTip": "Server\\Migrations\\20250622173957_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:39:58.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
