@@ -1,4 +1,4 @@
-DockerfileFROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 COPY . .
 WORKDIR "/src/Mindy&Tzippy project"
