@@ -19,3 +19,38 @@ obj/
 *.db 
 *.db-shm 
 *.db-wal 
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Entity Framework
+*.mdf
+*.ldf
+*.ndf
+
+# Others
+*.log
+*.cache
+*.tmp
