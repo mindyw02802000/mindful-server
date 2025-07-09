@@ -13,4 +13,9 @@ obj/
 
 # קבצים של מסדי נתונים
 *.sql
-database/
+database/.vs/ 
+bin/ 
+obj/ 
+*.db 
+*.db-shm 
+*.db-wal 
